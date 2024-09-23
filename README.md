@@ -20,7 +20,7 @@ Step 5: Define a function for costFunction,cost and gradient.
 
 Step 6: Define a function to plot the decision boundary and predict the Regression value.
 
-Step 7: End the program.
+Step 7: Stop the program.
 
 ## Program:
 

@@ -118,11 +118,19 @@ print(y_prednew)
 
 ## Output:
 
+Accuracy:
+
 ![Screenshot 2024-09-09 114706](https://github.com/user-attachments/assets/71633d75-cba5-4418-8629-bf3414d9b3f7)
+
+Y prediction:
 
 ![Screenshot 2024-09-09 114711](https://github.com/user-attachments/assets/56968500-06fb-44b1-9894-d9acba8ee542)
 
+Y:
+
 ![Screenshot 2024-09-09 114717](https://github.com/user-attachments/assets/65cf688a-2b01-4b50-909d-15e52c528506)
+
+New Y predicted:
 
 ![Screenshot 2024-09-09 114723](https://github.com/user-attachments/assets/8c22a572-33a8-4ea2-927b-fab22cfc5098)
 
